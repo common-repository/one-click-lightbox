@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: One Click Lightbox\n"
+"POT-Creation-Date: 2017-01-11 19:16+0100\n"
+"PO-Revision-Date: 2017-01-11 19:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: one-click-lightbox.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: one-click-lightbox.php:97
+msgid "Picture %1 of %2"
+msgstr "Bild %1 von %2"
+
+#: one-click-lightbox.php:107 one-click-lightbox.php:189
+msgid "One Click Lightbox Options"
+msgstr "One Click Lightbox Einstellungen"
+
+#: one-click-lightbox.php:143
+msgid ""
+"Transparency Error: Please enter a valid number between 0.0 and 1.0. "
+"Resetting value to default: 0.8"
+msgstr ""
+"Transparenz Fehler: Bitte eine Zahl zwischen 0.0 und 1.0 eingeben. Setze "
+"Wert auf den Standartwert zurück: 0.8."
+
+#: one-click-lightbox.php:191
+msgid "You have two ways to enable the lightbox:"
+msgstr "Es gibt zwei Varianten die Lightbox zu aktivieren:"
+
+#: one-click-lightbox.php:194
+msgid "#1 - If you want the Lightbox for a small amount of images"
+msgstr "#1 - Wenn du die Lightbox nur für ein paar wenige Bilder benötigst"
+
+#: one-click-lightbox.php:195
+msgid ""
+"You manually add this attribute <code>data-lightbox=\"roadtrip\"</code> to "
+"all anchors that point to an image."
+msgstr ""
+"Füge einfach <code>data-lightbox=\"roadtrip\"</code> allen deinen Ankern "
+"manuell zu. Die Anker müssen auf eine Bilddatei zeigen."
+
+#: one-click-lightbox.php:196
+msgid ""
+"Example: <code>&lt;a href=\"link-to-your-image.jpg\" data-lightbox=\"roadtrip"
+"\"&gt;Here is your content, maybe an &lt;img&gt;-tag or whatever&lt;/a&gt;</"
+"code>"
+msgstr ""
+"Beispiel: <code>&lt;a href=\"link-zu-deinem-Bild.jpg\" data-lightbox="
+"\"roadtrip\"&gt;Hier ist dein Inhalt, vielleicht ein &lt;img&gt;-tag oder "
+"etwas anderes&lt;/a&gt;</code>"
+
+#: one-click-lightbox.php:218
+msgid "#2 - If you need the Lightbox for every image"
+msgstr "#2 - Wenn du die Lightbox für alle Bilder möchtest"
+
+#: one-click-lightbox.php:219
+msgid ""
+"You check the following checkbox. That will automatically add the attribute "
+"from above to all anchors that point to an image."
+msgstr ""
+"Setze einen Haken bei der nachfolgenden Checkbox. Dadurch wird automatisch "
+"allen Ankern, die auf ein Bild zeigen, das oben genannte Attribut zugefügt."
+
+#: one-click-lightbox.php:220
+msgid ""
+"If that should not work for you, you can simply add <code>data-lightbox="
+"\"roadtrip\"</code> to the specific anchor. Normally that should not be "
+"necessary."
+msgstr ""
+"Falls das für dich nicht funktionieren sollte, kannst du einfach <code>data-"
+"lightbox=\"roadtrip\"</code> zu den jeweiligen Ankern hinzufügen. Das sollte "
+"aber normalerweise nicht notwendig sein."
+
+#: one-click-lightbox.php:221
+msgid ""
+"It is also possible to deactivate the Lightbox for specific images. Simply "
+"add <code>class=\"no-lightbox\"</code> to your anchor like this: "
+"<pre><code>&lt;a href=\"link-to-your-image.jpg\" class=\"no-lightbox\"&gt;"
+"Here is your content&lt;/a&gt;</code></pre>"
+msgstr ""
+"Es ist außerdem möglich, die Lightbox für bestimmte Bilder zu deaktiveren. "
+"Dafür fügst du ganz einfach <code>class=\"no-lightbox\"</code> in den Anker "
+"mit deinem Link ein. Das sollte dann so aussehen: <pre><code>&lt;a href="
+"\"link-zu-deinem-Bild.jpg\" class=\"no-lightbox\"&gt;Hier ist dein "
+"Inhalt&lt;/a&gt;</code></pre>"
+
+#: one-click-lightbox.php:225
+msgid "Activate automatic adding"
+msgstr "Activate automatic adding"
+
+#: one-click-lightbox.php:228
+msgid ""
+"Activate to add data-lightbox=\"roadtrip\" to every anchor automatically:"
+msgstr ""
+"Aktivieren, um automatisch data-lightbox=\"roadtrip\" allen Ankern "
+"hinzuzufügen:"
+
+#: one-click-lightbox.php:237
+msgid "For Advanced Users only!"
+msgstr "Nur für erfahrene Benutzer!"
+
+#: one-click-lightbox.php:240
+msgid "Transparency"
+msgstr "Transparency"
+
+#: one-click-lightbox.php:243
+msgid "Transparency (between 0.0 and 1.0):"
+msgstr "Transparenz (zwischen 0.0 und 1.0):"
+
+#: one-click-lightbox.php:293
+msgid "Donate"
+msgstr "Donate"
+
+#. Plugin Name of the plugin/theme
+msgid "One Click Lightbox"
+msgstr "One Click Lightbox"
+
+#. Plugin URI of the plugin/theme
+msgid "https://probstdominik.de"
+msgstr "https://probstdominik.de/"
+
+#. Description of the plugin/theme
+msgid "Adds a lightbox to your site"
+msgstr "Fügt der Seite eine Lightbox hinzu"
+
+#. Author of the plugin/theme
+msgid "Dominik Probst"
+msgstr "Dominik Probst"
+
+#. Author URI of the plugin/theme
+msgid "https://probstdominik.de/"
+msgstr "https://probstdominik.de/"
+
+#~ msgid ""
+#~ "If that should not work for you, you can simply add <code>data-lightbox="
+#~ "\"roadtrip\"</code> to the specific anchor. Normally that should not "
+#~ "happen."
+#~ msgstr ""
+#~ "Falls das für dich nicht funktionieren sollte, kannst du einfach "
+#~ "<code>data-lightbox=\"roadtrip\"</code> zu den jeweiligen Links "
+#~ "hinzufügen. Das sollte aber normalerweise nicht notwendig sein."
+
+#~ msgid "Saved Changes!"
+#~ msgstr "Änderungen gespeichert!"
+
+#~ msgid "Some information about how to use this plugin:"
+#~ msgstr "Hier sind einige Informationen wie man das Plugin benutzt:"
+
+#~ msgid ""
+#~ "You can manually add one of the following attributes to your image-links "
+#~ "to activate the Lightbox"
+#~ msgstr ""
+#~ "Du kannst den Links zu deinen Bildern manuell eines der folgenden "
+#~ "Attribute zuweisen um die Lightbox zu aktivieren"
+
+#~ msgid ""
+#~ "Use \"roadtrip\" to group a bunch of images, so you can easily switch "
+#~ "between them: "
+#~ msgstr ""
+#~ "Benutze \"roadtrip\" um Bilder zu einer Gruppe zusammenzufassen, um so "
+#~ "leicht zwischen ihnen wechseln zu können: "
+
+#~ msgid ""
+#~ "Or give any image an individual name, so it gets an individual Lightbox: "
+#~ msgstr ""
+#~ "Oder du gibst jedem Bild einen individuellen Namen, damit es eine "
+#~ "individuelle Lightbox erhält: "
+
+#~ msgid ""
+#~ "It is also possible to deactivate the Lightbox for specific images. "
+#~ "Simply add this class to your anchor: "
+#~ msgstr ""
+#~ "Es ist außerdem möglich, die Lightbox für bestimme Bilder zu "
+#~ "deaktivieren. Füge einfach dem Anker folgende Klasse hinzu: "
+
+#~ msgid "Here is a example of how it should look like: "
+#~ msgstr "Hier ist ein Beispiel, wie es aussehen sollte: "
+
+#~ msgid "Deactivate automatic"
+#~ msgstr "Deactivate automatic"
+
+#~ msgid "Deactivate automatic adding of the Lightbox attribute:"
+#~ msgstr ""
+#~ "Deaktiviere das automatische hinzufügen des Lightbox Attributs zu deinen "
+#~ "Links:"

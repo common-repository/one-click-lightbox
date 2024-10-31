@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: One Click Lightbox\n"
+"POT-Creation-Date: 2017-01-04 13:45+0100\n"
+"PO-Revision-Date: 2017-01-04 13:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: one-click-lightbox.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: one-click-lightbox.php:38
+msgid "Picture %1 of %2"
+msgstr "Bild %1 von %2"
+
+#. Plugin Name of the plugin/theme
+msgid "One Click Lightbox"
+msgstr "One Click Lightbox"
+
+#. Plugin URI of the plugin/theme
+msgid "https://probstdominik.de"
+msgstr "https://probstdominik.de"
+
+#. Description of the plugin/theme
+msgid "Adds a lightbox to your site"
+msgstr "Fügt der Seite eine Lightbox hinzu"
+
+#. Author of the plugin/theme
+msgid "Dominik Probst"
+msgstr "Dominik Probst"
+
+#. Author URI of the plugin/theme
+msgid "https://probstdominik.de/"
+msgstr "https://probstdominik.de/"
